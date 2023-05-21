@@ -1,4 +1,5 @@
 import express, { Express, json } from 'express';
+import cors from 'cors';
 import { routes } from './routes';
 import cors from 'cors';
 
